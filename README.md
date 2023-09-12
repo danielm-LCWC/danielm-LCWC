@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielm-LCWC
 - 👀 I’m interested in gaming and music 
-- 🌱 I’m currently learning Digital at lakes college 
+- 🌱 I’m currently learning Lvl 2 Digital at lakes college 
 
 <!---
 danielm-LCWC/danielm-LCWC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
